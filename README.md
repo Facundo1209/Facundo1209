@@ -12,7 +12,8 @@
 ✍️ &nbsp;In my free time, I build and repair computers.\
 💬 &nbsp;Feel free to contact me for consulting, volunteering, or just an interesting conversation.\
 ✉️ &nbsp;You can email me at facundocardozo2703@gmail.com! I'll try to respond as soon as possible.\
-📄 &nbsp;Please have a look at my [Résumé](file:///C:/Users/xx/Desktop/CV-Facundo-Cardozo.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 Please have a look at my [Résumé](https://Facundo1209.github.io/mi-cv/CV-Facundo-Cardozo.pdf) for more details about me.
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
