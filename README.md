@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Facundo Cardozo</h2>
+<h1 align="center"><b>Hi , I'm Facundo Cardozo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Facundo Cardozo -->
 
