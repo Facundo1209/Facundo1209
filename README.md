@@ -65,23 +65,22 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  
-<p align="center">
-  <a href="https://www.linkedin.com/in/facundo-cardozo-252636242/">
+  <a href="https://www.linkedin.com/in/facundo-cardozo-252636242/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;
   
-  <a href="mailto:facundocardozo2703@gmail.com">
+  <a href="mailto:facundocardozo2703@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;
   
-  <a href="https://discordapp.com/users/724787898297352212">
+  <a href="https://discordapp.com/users/724787898297352212" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>&nbsp;
   
-  <a href="https://www.facebook.com/facuu.cardozo.18">
+  <a href="https://www.facebook.com/facuu.cardozo.18" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>&nbsp;
 </p>
+
 
 -----
