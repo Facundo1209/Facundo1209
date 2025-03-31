@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>&nbsp;
   
-  <a href="https://www.facebook.com/TU_USUARIO">
+  <a href="https://www.facebook.com/facuu.cardozo.18">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>&nbsp;
 </p>
