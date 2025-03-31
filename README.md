@@ -15,7 +15,8 @@
 📄 Please have a look at my [Résumé](https://Facundo1209.github.io/Facundo1209/CV-Facundo-Cardozo.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
-<img alt="Night Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZuamFyZmRxcmJ4N2ZzNjhyZWpuaG1zang3b3J2MnZiNXJubGhjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" align="right"/>
+<img alt="Night Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZuamFyZmRxcmJ4N2ZzNjhyZWpuaG1zang3b3J2MnZiNXJubGhjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" align="right" width="250px" height="150px"/>
+
  <h3>🛠 &nbsp;Tech Stack<h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
