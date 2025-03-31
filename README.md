@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Facundo Cardozo -->
 
-### 👨🏻‍💻 &nbsp;About Me
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am currently studying for a Bachelor's Degree in Information Technology Management at the Universidad Abierta Interamericana.\
