@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Facundo Cardozo -->
 
-##<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me**
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I am currently studying for a Bachelor's Degree in Information Technology Management at the Universidad Abierta Interamericana.\
@@ -16,7 +16,7 @@
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
- ##🛠 &nbsp;Tech Stack
+ 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
