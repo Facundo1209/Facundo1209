@@ -73,6 +73,7 @@
 </a>&nbsp;
 <a href="https://discordapp.com/users/724787898297352212" target="_blank"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>&nbsp;
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)&nbsp;
+<a href="https://www.facebook.com/share/1KQQLS5yyK/" target="_blank">; <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">;
+</a>&nbsp;
 </p>
 -----
