@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I build and repair computers.\
 💬 &nbsp;Feel free to contact me for consulting, volunteering, or just an interesting conversation.\
 ✉️ &nbsp;You can email me at facundocardozo2703@gmail.com! I'll try to respond as soon as possible.\
-📄 Please have a look at my [Résumé](https://github.com/Facundo1209/Facundo1209/raw/main/CV_Facundo Cardozo 2025.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 Please have a look at my [Résumé](https://github.com/Facundo1209/Facundo1209/raw/main/CV_Facundo_Cardozo_2025.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 <img alt="Night Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZuamFyZmRxcmJ4N2ZzNjhyZWpuaG1zang3b3J2MnZiNXJubGhjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" align="right" width="250px"/>
