@@ -72,10 +72,12 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;
   
- <a href="mailto:facundocardozo2703@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a facundocardozo2703@gmail.com">
+<a href="mailto:facundocardozo2703@gmail.com?subject=Consulta%20desde%20tu%20web&body=Hola%20Facundo%2C%20quería%20contactarte..." 
+   style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+       alt="Enviar correo a facundocardozo2703@gmail.com">
 </a>
-  
+
 </p>
 
 
