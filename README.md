@@ -67,19 +67,19 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/facundo-cardozo-252636242/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp;
-  
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=facundocardozo2703@gmail.com&su=Consulta%20desde%20tu%20web&body=Hola%20Facundo%2C%20quería%20contactarte..."
-   target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-       alt="Enviar correo a facundocardozo2703@gmail.com">
-</a>
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/facundo-cardozo-252636242/" target="_blank" style="text-decoration: none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="Perfil de LinkedIn">
+  </a>
 
-
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=facundocardozo2703@gmail.com&su=Consulta%20desde%20tu%20web&body=Hola%20Facundo%2C%20quería%20contactarte..."
+     target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Enviar correo a facundocardozo2703@gmail.com">
+  </a>
 </p>
+
 
 
 -----
